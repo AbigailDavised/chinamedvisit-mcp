@@ -1,0 +1,21 @@
+{
+  "name": "chinamedvisit",
+  "version": "1.0.0",
+  "description": "Compare China Tier-3A IMC hospital costs vs US/UK prices, plan trips & get bilingual triage cards.",
+  "homepage": "https://chinamedvisit.com",
+  "repository": "https://github.com/AbigailDavised/chinamedvisit-mcp",
+  "license": "MIT",
+  "author": {
+    "name": "Abigail Davised",
+    "email": "admin@chinamedvisit.com",
+    "url": "https://chinamedvisit.com"
+  },
+  "keywords": [
+    "medical-tourism-china",
+    "tier3a-hospitals",
+    "pumch",
+    "pet-ct-cost",
+    "bilingual-triage",
+    "mcp"
+  ]
+}

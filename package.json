@@ -1,0 +1,16 @@
+{
+  "name": "chinamedvisit-mcp",
+  "version": "1.0.0",
+  "description": "Compare China Tier-3A IMC hospital costs vs US/UK prices, plan trips & get bilingual triage cards.",
+  "homepage": "https://chinamedvisit.com",
+  "mcpName": "com.chinamedvisit/mcp",
+  "type": "module",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "china-healthcare",
+    "medical-cost",
+    "tier3a-hospitals"
+  ]
+}

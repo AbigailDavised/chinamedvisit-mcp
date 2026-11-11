@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.chinamedvisit/mcp",
+  "title": "ChinaMedVisit — China Tier-3A Hospital Guide & Medical Cost Estimator",
+  "description": "Compare China Tier-3A IMC hospital costs vs US/UK prices, plan trips & get bilingual triage cards.",
+  "version": "1.0.0",
+  "websiteUrl": "https://chinamedvisit.com",
+  "repository": {
+    "url": "https://github.com/AbigailDavised/chinamedvisit-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://chinamedvisit.com/icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://chinamedvisit.com/api/mcp"
+    }
+  ]
+}

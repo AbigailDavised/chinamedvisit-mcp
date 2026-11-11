@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "chinamedvisit": {
+      "type": "http",
+      "url": "https://chinamedvisit.com/api/mcp"
+    }
+  }
+}
