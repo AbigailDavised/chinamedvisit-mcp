@@ -12,5 +12,8 @@
     "china-healthcare",
     "medical-cost",
     "tier3a-hospitals"
-  ]
+  ],
+  "bin": {
+    "chinamedvisit-cli": "./bin/cli.js"
+  }
 }
