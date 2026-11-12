@@ -1,0 +1,11 @@
+{
+  "name": "chinamedvisit",
+  "version": "1.0.0",
+  "description": "China Tier-3A IMC hospital procedure cost estimator, doctor triage & visa guide.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "chinamedvisit": {
+      "httpUrl": "https://chinamedvisit.com/api/mcp"
+    }
+  }
+}
