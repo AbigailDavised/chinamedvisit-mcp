@@ -1,4 +1,5 @@
 {
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "chinamedvisit",
   "version": "1.0.0",
   "description": "Compare China Tier-3A IMC hospital costs vs US/UK prices, plan trips & get bilingual triage cards.",
@@ -17,5 +18,14 @@
     "pet-ct-cost",
     "bilingual-triage",
     "mcp"
-  ]
+  ],
+  "extensions": {
+    "com.nousresearch.hermes": {
+      "servers": {
+        "chinamedvisit": {
+          "trust": "untrusted"
+        }
+      }
+    }
+  }
 }
