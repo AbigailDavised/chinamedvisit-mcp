@@ -1,6 +1,7 @@
 # ChinaMedVisit — Tier-3A International Medical Tourism & Clinical Cost Benchmark Engine
 
 [![Model Context Protocol](https://img.shields.io/badge/MCP-Protocol-blue.svg)](https://modelcontextprotocol.io)
+[![MCPRush Listing](https://mcprush.com/badge/chinamedvisit-china-tier-3a-hospital-guide-me-mcp/card.svg)](https://mcprush.com/to/chinamedvisit-china-tier-3a-hospital-guide-me-mcp?ref=badge)
 [![Official Website](https://img.shields.io/badge/Official-Website-emerald.svg)](https://chinamedvisit.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
