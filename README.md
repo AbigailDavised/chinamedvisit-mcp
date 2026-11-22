@@ -76,6 +76,13 @@ Derived from ChinaMedVisit production clinical tariff database (`proceduresData.
 
 ---
 
+## Documentation & Benchmark Notes
+
+- **[ChinaMedVisit Tier-3A IMC & Medical Cost Handbook (GitBook)](https://abigaildavised.gitbook.io/china-medvisit-handbook/)** — Multi-chapter reference documentation covering 76 Tier-3A International Medical Centers across 10 cities, out-of-pocket RMB/USD fee intervals, diagnostic turnaround SLAs, and visa preparation checklists ([`llms.txt`](https://abigaildavised.gitbook.io/china-medvisit-handbook/llms.txt)).
+- **[Modeling Out-of-Pocket Medical Costs and Triage Turnaround Across 76 China Tier-3A Hospitals (HashNode)](https://abigaildavised.hashnode.dev/modeling-out-of-pocket-medical-costs-and-triage-turnaround-across-76-china-tier-3a-hospitals)** — Engineering and data-modeling breakdown of interval cost estimation, ancillary coordination budgets, and diagnostic sequencing dependencies.
+
+---
+
 ## License
 
 MIT © [ChinaMedVisit](https://chinamedvisit.com)
